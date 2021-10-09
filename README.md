@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @crodn001
+- 👋 Hi, I’m Christian.
 - 👀 I’m interested in becoming a Software Development Engineer.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on beginner level projects to add to my portfolio.
+- 🌱 I’m currently learning HTML, CSS, and Javascript.
+- 💞️ I’m looking to find and work on beginner level projects to add to my portfolio.
 - 📫 You can reach me at christianmaxrodney@outlook.com
 
 <!---
